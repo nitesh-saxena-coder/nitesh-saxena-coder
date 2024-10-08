@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitesh Saxena</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/eecbf057-96a5-4af4-93b7-ca0661b39ebc)
+![image](https://github.com/user-attachments/assets/eecbf057-96a5-4af4-93b7-ca0661b39ebc)
 "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh-saxena-coder&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh-saxena-coder" /> </p>
